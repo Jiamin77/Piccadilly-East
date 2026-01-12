@@ -5,17 +5,17 @@ This project is a master's course that spans two semesters and is divided into t
 
 Part 1
 
-![示意图]（https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(1).jpg）
-![示意图]（https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(2).jpg）
-![示意图]（https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(3).jpg）
+![示意图](https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(1).jpg)
+![示意图](https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(2).jpg)
+![示意图](https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(3).jpg)
 
 
 Part 2
 
-![示意图]（https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(4).jpg)
+![示意图](https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(4).jpg)
 
 
 Part 3
 
-![示意图]（https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(5).jpg)
-![示意图]（https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(6).jpg)
+![示意图](https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(5).jpg)
+![示意图](https://github.com/Jiamin77/Piccadilly-East/blob/main/Piccadilly-East%20(6).jpg)
